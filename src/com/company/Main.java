@@ -11,8 +11,8 @@ public class Main {
 
         parent.say(parent.name);
         hisSon.say(hisSon.name);
-
     }
+
 }
 
 class Parent {
